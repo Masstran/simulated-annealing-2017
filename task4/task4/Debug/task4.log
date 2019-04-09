@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  task4.cpp
+c:\users\igor\desktop\universirty\7 sem\task4\task4\task4.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\igor\desktop\universirty\7 sem\task4\task4\task4.cpp(291): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\igor\desktop\universirty\7 sem\task4\task4\task4.cpp(301): warning C4018: '<': signed/unsigned mismatch
+  tinyxml2.cpp
+  Generating Code...
+  task4.vcxproj -> C:\Users\igor\Desktop\Universirty\7 sem\task4\Debug\task4.exe
